@@ -1,3 +1,9 @@
 .titre1{
 	background-color : cyan
 }
+.cadre1{
+	background-color : lime;
+}
+.cadre2{
+	background-color : gold;
+}
